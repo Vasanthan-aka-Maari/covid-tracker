@@ -1,0 +1,16 @@
+.infoBox {
+  width: 200px;
+  color: white !important;
+}
+.infoBox.cases {
+  background-color: #f95959;
+  border-top: 10px solid #8a3232;
+}
+.infoBox.recovered {
+  background-color: #2eb872;
+  border-top: 10px solid #1c7749;
+}
+.infoBox.deaths {
+  background-color: #eb1127;
+  border-top: 10px solid #880b17;
+}
